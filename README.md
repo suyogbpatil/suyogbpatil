@@ -1,2 +1,2 @@
-## Suyog Patil - Algo Developer / Full Stack Software Developer in Stock Market Domain
-#####Proficiency in FullStack - MERN(Mongodb, Express,React,Nodejs) - Linux(Ubuntu) - Nginx
+## Suyog Patil -Results-driven Backend & Full Stack Developer | Golang | MERN | React | Algo Trading Software Engineer
+#####Proficiency in FullStack - MERN(Mongodb, Express,React,Nodejs)/(Golang-ReactJS-Postgress) - Linux(Ubuntu) - Nginx
